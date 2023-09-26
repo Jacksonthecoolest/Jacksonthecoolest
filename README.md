@@ -1,1 +1,1 @@
-![Jackson](./assets/images/Nice Logo_page-0001.jpg)
+![Jackson](./assets/images/Nice%20Logo_page-0001.jpg)
