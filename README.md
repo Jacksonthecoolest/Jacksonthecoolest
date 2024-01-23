@@ -12,7 +12,7 @@ I'm more focused with Blender and Making 3D models, and have made many models.
 <div align="center">
   
   ## :scroll:My Statistics:scroll:
-  [![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whyte677&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacksonthecoolest&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   ## :notes:What I'm Listening to:notes:
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=m5pat36468r6cghrcj5jx0az7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
